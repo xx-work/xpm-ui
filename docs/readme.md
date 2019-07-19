@@ -5,6 +5,15 @@
 -  [node-v10.16.0](https://nodejs.org/dist/v10.16.0/node-v10.16.0-x64.msi)
 - npm config set registry https://registry.npm.taobao.org
 
+## Vue-cli 创建UI
+- [vue-cli-plugin-element](https://github.com/ElementUI/vue-cli-plugin-element)
+```
+#  npm install -g vue-cli
+vue create xpm-ui
+cd xpm-ui
+vue add element
+```
+
 ## 用cnpm替换npm(不是必须)
 - npm install -g cnpm --registry=https://registry.npm.taobao.org
 
