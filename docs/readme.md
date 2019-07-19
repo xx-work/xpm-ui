@@ -34,3 +34,7 @@ vue add element
 ## 下面的按需使用
 - npm install babel-plugin-component -D
 - [components.json](https://github.com/ElemeFE/element/blob/master/components.json)
+
+## 成型项目研究
+- [OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
+- [OJ_UI](https://github.com/QingdaoU/OnlineJudgeFE)
