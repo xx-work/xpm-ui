@@ -1,5 +1,8 @@
 ## NPM 环境搭建  
 - [vue-2.0-simple-routing-example](https://github.com/chrisvfritz/vue-2.0-simple-routing-example)
+- [docs-vue](https://www.ctolib.com/docs-vue-js-c-index.html)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
+- [vue简易模板](https://gitee.com/panjiachen/vue-element-admin)
 
 ## Windows下搭建和使用
 -  [node-v10.16.0](https://nodejs.org/dist/v10.16.0/node-v10.16.0-x64.msi)
@@ -38,3 +41,13 @@ vue add element
 ## 成型项目研究
 - [OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
 - [OJ_UI](https://github.com/QingdaoU/OnlineJudgeFE)
+
+
+## 引用第三方JS
+
+```javascript
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'http://xxx.xxx';
+document.head.appendChild(script);
+```
